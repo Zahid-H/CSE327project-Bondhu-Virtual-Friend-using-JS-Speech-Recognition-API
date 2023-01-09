@@ -4,4 +4,8 @@ SpeechRecognition
 *The SpeechSynthesis interface of the Web Speech API is the controller interface for the speech service; this can be used to retrieve information about the synthesis voices available on the device, start and pause speech, and other commands besides.
 Virtual assistant that able to convert speech to text and also speak.
 "This project was builed using Javascipt webspeech API"
+
+
+# Requirements:
+just run on any web browser.
 ![jarvis UI](https://user-images.githubusercontent.com/83463788/211333817-9bd7ab78-dcd2-49bc-8132-b4dc4649bef6.png)
