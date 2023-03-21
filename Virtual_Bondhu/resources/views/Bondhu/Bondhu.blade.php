@@ -8,7 +8,8 @@
     <title>Bondhu - Virtual Assistant</title>
 
     <!---- CSS Linkage ------>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/bondhu.css') }}">
+    
 
     <!---- Font Awesome Cdn Linkage ------>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -19,10 +20,10 @@
     <section class="main">
         <div class="image-container">
             <div class="image">
-                <img src="gif.gif" alt="image">
+                <img src="{{ asset('assets/images/gif.gif') }}" alt="image">
             </div>
-            <h1>Jervis</h1>
-            <p>I'm a Virtual Assistant how can i help you</p>
+            <h1>বন্ধু - ভার্চুয়াল সহকারী</h1>
+            <p>আমি আপনার ভার্চুয়াল বন্ধু</p>
         </div>
         <div class="input">
             <button class="talk"><i class="fas fa-microphone-alt"></i></button>
@@ -31,7 +32,7 @@
     </section>
 
     <!------- Js Linkage --------->
-    <script src="app.js"></script>
+    <script src="{{ asset('assets/js/bondhu.js') }}"></script>
 </body>
 
 </html>
