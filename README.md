@@ -1,4 +1,4 @@
-# CSE327project-Bondhu-Virtual-Frined-using-JS-Speech-Recognition-API
+# CSE327project-Bondhu-Virtual-Friend-using-JS-Speech-Recognition-API
 SpeechRecognition
 *The SpeechRecognition interface of the Web Speech API is the controller interface for the recognition service; this also handles the SpeechRecognitionEvent sent from the recognition service.
 *The SpeechSynthesis interface of the Web Speech API is the controller interface for the speech service; this can be used to retrieve information about the synthesis voices available on the device, start and pause speech, and other commands besides.
