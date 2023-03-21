@@ -7,5 +7,10 @@ Virtual assistant that able to convert speech to text and also speak.
 
 
 # Requirements:
-just run on any web browser.
-![jarvis UI](https://user-images.githubusercontent.com/83463788/211333817-9bd7ab78-dcd2-49bc-8132-b4dc4649bef6.png)
+Open file on code editor or open directory on cmd and run php artisan serve </br>
+URL http://127.0.0.1:8000/bondhu </br>
+Say Hello and ask Questions</br>
+# UI sreenshot
+![Bondhu](https://user-images.githubusercontent.com/83463788/226614710-7cb1a343-4427-4908-b6f4-ef6bbd519700.png)
+
+
